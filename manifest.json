@@ -1,0 +1,10 @@
+{
+  "name": "贸大 MTI 词根词缀学习器",
+  "short_name": "贸大词汇",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f1e8",
+  "theme_color": "#183a37",
+  "description": "面向对外经贸大学 MTI 的词根词缀、大词量与 GRE 八周期复习学习器。",
+  "icons": []
+}
